@@ -3,7 +3,7 @@ perex: "Medailí ze zimních olympijských her přivážejí Češi více a víc
 authors: ["Petr Kočí", "Michal Zlatkovský"]
 published: "23. února 2018"
 coverimg: "https://www.irozhlas.cz/sites/default/files/styles/zpravy_fotogalerie_medium/public/uploader/fb-a-pal-000205240_180208-132141_vman.jpg?itok=3uPPcyZ7"
-coverimg_note: ""
+coverimg_note: "Česká olympijská výprava na hrách v Pchjongčchangu | Foto: Český olympijský výbor"
 styles: []
 libraries: [jquery, jquery-csv, highcharts, datatables] 
 options: [noheader]
@@ -13,14 +13,16 @@ V letošních olympijských hrách se závodníci účastní celkem 102 jednotli
 
 (hlavní graf)
 
-Úspěch české výpravy ale nelze vysvětlit jen stoupající kvantitou. Zvyšuje se také procento získaných medailí z celkového počtu: (TADY ASI JAK SE ZVYŠUJE NEBO TAK)
+Úspěch české výpravy ale nelze vysvětlit jen stoupající kvantitou. Zvyšuje se také procento získaných medailí z celkového počtu: (TADY ASI JAK SE ZVYŠUJE NEBO TAK) . Češi bodují nejen v nových disciplínách - jako Eva Samková ve snowboardu nebo dříve Aleš Valenta v akrobatickém lyžování - ale i v těch tradičních, jako je hokej nebo rychlobruslení.
 
-8. někdy to vypadá, že Češi jsou dobrý hlavně v nových disciplínách (Valenta v akrobatickém lyžování, možná Samková ve snowboardu, nebo ještě vyšťouráme nějakej příklad?) ale když se pořádně podíváme na celou historii, je vidět, že češi bodují nejčastěji v tradičních disciplínách: hokej, rychlo a krasobruslení, skoky na lyžích…
-
-8. letošní olympiáda je výjimečná také tím, že většinu medailí vezou ženy, trend už můžeme v grafu pozorovat delší dobu, ale když se podíváme podrobněji do výsledků, táhnou je hlavně multimedailistky Neumannová a Sáblíková
-
-9. ale je teda fakt, že ženy jsou teď úspěšnější, jestli to náhodou není tím, že dřív sportování pro ženský vůbec nebylo a teď jo, nebo jestli muži je větší konkurence (kdyby na tohle téma někde něco řekl nějakej sportovní historik, dalo by se to tím krásně uzavřít)
+Disciplíny se v průběhu let mění, věk sportovců ale zůstává podobný. Vůbec prvnímu Čechoslovákovi, který získal olympijskou medaili - skokan na lyžích Rudolf Burkert - bylo 23 let, jen o pár měsíců více, než dnes Ester Ledecké. Úspěšní olympionici pod dvacet zůstávají výjimkami, byť je jednou z nich známá krasobruslařka Hana Mašková. A jediným Čechem, který získal medaili po čtyříctce, je Dominik Hašek, bronzový brankář z olympiády v Turíně v roce 2006. 
 
 <wide><div id="vekMedailistu"></div></wide>
+
+Letošní olympiáda je výjimečná také tím, že většinu medailí získaly ženy. Tento trend můžeme pozorovat už delší dobu. Do jisté míry za ním ovšem stojí dvě medailistky hned s vícenásobnými úspěchy - rychlobruslařka Martina Sáblíková se šesti medailemi z posledních tří olympiád a běžkařka Kateřina Neumannová, která svých šest kovů nasbírala mezi lety 1998 a 2006.
+
 <div id="muziZeny" style="height: 500px"></div>
+
+Úspěch žen je ale dán i zvyšujícím se počtem ženských disciplín - a s tím spojenou čím dál početnější ženskou olympisjou reprezentací. Žen je na olympijských hrách stále méně než mužů - letos je poměr mužských a ženských sportovců 1714 ku 1159 - poměr se ale zlepšuje i oproti nedávné době. Ještě v roce 1994 v Norském Lillehammeru se k 1215 mužským sportovcům přidalo pouhých 522 žen.
+
 <wide><div id="tabulka"></div></wide>
