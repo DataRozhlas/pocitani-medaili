@@ -8,4 +8,4 @@ styles: ["https://cdn.datatables.net/1.10.16/css/jquery.dataTables.min.css","htt
 libraries: ["https://unpkg.com/highcharts@6.0.6", "https://unpkg.com/highcharts@6.0.6/modules/annotations.js", "https://code.jquery.com/jquery-1.12.4.js", "https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js", "https://cdn.datatables.net/responsive/2.2.1/js/dataTables.responsive.min.js"] 
 options: "noheader, nopic"
 ---
-<div id="vekMedailistu"></div>
+<wide><div id="vekMedailistu"></div></wide>
