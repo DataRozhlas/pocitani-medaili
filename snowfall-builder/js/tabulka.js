@@ -1,7 +1,7 @@
  $.ajax({
    type: "GET",  
    // url: "https://dev.datarozhlas.cz/pocitani-medaili/snowfall-builder/data/medaile.csv",
-   url: "data/medaile.csv",
+   url: "https://www.irozhlas.cz/sites/default/files/uploader_unmanaged/medaile_180222-181420_zlo.csv",
    dataType: "text",       
    success: function(response)  
    {
@@ -86,7 +86,7 @@ function generateHtmlTable(data) {
                            },
         },
         {
-            "targets": [0, 2],
+            "targets": [0, 2, 5],
             "visible": false
         },
     ]

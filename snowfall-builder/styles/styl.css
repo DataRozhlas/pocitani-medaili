@@ -4,3 +4,10 @@
 	max-width: 1000px;
 	margin: 0 auto;
 }
+
+#historieMedaili {
+    min-height: 400px;
+    min-width: 310px;
+    max-width: 1000px;
+    margin: 0 auto;
+}

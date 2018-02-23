@@ -11,9 +11,9 @@ options: [noheader]
 
 V letošních olympijských hrách se závodníci účastní celkem 102 jednotlivých soutěží. Jejich počet se za třicet let tak zvýšil více než dvojnásobně - a v roce 1960 bylo disciplín pouhých sedmadvacet. Z narůstajícího počtu rozdáváných medailí tak mohou mít radost i Češi. Za pětadvacet let existence České republiky jich nasbírali víc než Československo za sedmdesát. 
 
-(hlavní graf)
+<wide><div id="historieMedaili"></div></wide>
 
-Úspěch české výpravy ale nelze vysvětlit jen stoupající kvantitou. Zvyšuje se také procento získaných medailí z celkového počtu: (TADY ASI JAK SE ZVYŠUJE NEBO TAK) . Češi bodují nejen v nových disciplínách - jako Eva Samková ve snowboardu nebo dříve Aleš Valenta v akrobatickém lyžování - ale i v těch tradičních, jako je hokej nebo rychlobruslení.
+Úspěch české výpravy ale nelze vysvětlit jen stoupající kvantitou. Zvyšuje se také procento získaných medailí z celkového počtu udělovaných. Češi bodují nejen v nových disciplínách - jako Eva Samková ve snowboardu nebo dříve Aleš Valenta v akrobatickém lyžování - ale i v těch tradičních, jako je hokej nebo rychlobruslení.
 
 Disciplíny se v průběhu let mění, věk sportovců ale zůstává podobný. Vůbec prvnímu Čechoslovákovi, který získal olympijskou medaili - skokan na lyžích Rudolf Burkert - bylo 23 let, jen o pár měsíců více, než dnes Ester Ledecké. Úspěšní olympionici pod dvacet zůstávají výjimkami, byť je jednou z nich známá krasobruslařka Hana Mašková. A jediným Čechem, který získal medaili po čtyříctce, je Dominik Hašek, bronzový brankář z olympiády v Turíně v roce 2006. 
 
